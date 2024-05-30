@@ -1,0 +1,5 @@
+# Ignorar la carpeta target y su contenido
+/target/
+
+# Ignorar archivos jar generados por Maven
+*.jar
